@@ -120,7 +120,6 @@ body{
 .todo-element-text{
     font-size: 0.9rem;
     color: #777777;
-    overflow: scroll;
     padding: 5px 0;
 }
 
